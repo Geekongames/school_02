@@ -45,7 +45,8 @@ Gameplay video: https://www.youtube.com/watch?v=SNbzevhRBNk&ab_channel=AaronHugg
 - MeshRenderer is resposible to show 3d Model into Unity
 - MeshRenderer can be attached to GameObject
 - Material is resposible for coloring MeshRenderer
-  > At this point you should be able to create a static level
+  
+> At this point you should be able to create a static level
 
 ### Movement
 #### RigidBody (non kenimatic)
