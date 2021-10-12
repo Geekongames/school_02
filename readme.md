@@ -39,7 +39,7 @@ Gameplay video: https://www.youtube.com/watch?v=SNbzevhRBNk&ab_channel=AaronHugg
    - Next level on win
    - Restart on lose
 
-## Black-box knowloge for Helix Jump in Unity3D
+## Implementation
 ### Rendering
 - You can import FBX/Blender files into Unity. It will be 3d models
 - MeshRenderer is resposible to show 3d Model into Unity
